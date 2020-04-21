@@ -1,0 +1,153 @@
+.corpo {
+	margin-left: 250px;
+	margin-right: 250px;
+	background-color: #bce6f7;
+}
+
+h1 {
+	text-align: center;
+	font-family: Times, Didot, sans-serif;
+	font-size: 70px;
+	font-weight: 500;
+	margin-top: 30px;
+	color: #09062e;
+	text-shadow: 
+		0 1px 0 #cccccc, 
+		0 2px 0 #c9c9c9, 0 3px 0 #bbbbbb, 
+		0 4px 0 #b9b9b9, 0 5px 0 #aaaaaa, 
+		0 6px 1px rgba(0, 0, 0, 0.1), 
+		0 0 5px rgba(0, 0, 0, 0.1), 
+		0 1px 3px rgba(0, 0, 0, 0.3), 
+		0 3px 5px rgba(0, 0, 0, 0.2), 
+		0 5px 10px rgba(0, 0, 0, 0.25), 
+		0 10px 10px rgba(0, 0, 0, 0.2), 
+		0 20px 20px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+	text-align: center;
+	font-family: Comic Sans MS, Arial, Times, sans-serif;
+	font-weight: 400;
+	font-size: 40px;
+	font-color:#09062e;
+}
+
+ul {
+	font-family: Arial, Times, sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	background-color: #3f6270;
+	text-align: left;
+	border-style: solid;
+	border-width: 7px;
+	border-color: #09062e;
+	padding: 10px;
+	padding-top: 30px;
+	padding-left: 55px;
+	height: 400px;
+}
+
+.google {
+	list-style:none;
+ 	list-style-image: url(../img/google.png);
+}
+
+.facebook {
+	list-style:none;
+	list-style-image: url(../img/facebook.png);
+}
+
+.instagram {
+	list-style:none;
+	list-style-image: url(../img/instagram.png);
+}
+
+.canva {
+	list-style:none;
+	list-style-image: url(../img/canva.png);
+}
+
+.twitter {
+	list-style:none;
+	list-style-image: url(../img/twitter.png);
+}
+
+.youtube {
+	list-style:none;
+	list-style-image: url(../img/youtube.png);
+}
+
+.gmail {
+	list-style:none;
+	list-style-image: url(../img/gmail.png);
+}
+
+.outlook {
+	list-style:none;
+	list-style-image: url(../img/outlook.png);
+}
+
+.cifraclub {
+	list-style:none;
+	list-style-image: url(../img/cifraclub.png);
+}
+
+.mercadolivre {
+	list-style:none;
+	list-style-image: url(../img/mercadolivre.png);
+}
+.apple {
+	list-style:none;
+	list-style-image: url(../img/apple.png);
+}
+
+.enjoei {
+	list-style:none;
+	list-style-image: url(../img/enjoei.png);
+}
+
+.cocacola {
+	list-style:none;
+	list-style-image: url(../img/cocacola.png);
+}
+
+a:link {
+	background: #09062e;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: 400;
+	border-width: 2px;
+	border-style: solid;
+	border-top-color: #4c36f5;
+	border-right-color: #201975;
+	border-bottom-color: #06021a;
+	border-left-color: #3221b8;
+
+}
+
+a:hover {
+	background: #B1B1B1;
+	color: #c73ebb;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: Comic Sans MS, Arial, Times, sans-serif;
+	border-color: #ab1bcf;
+	margin-left: 25px;
+}
+
+a:active {
+	color: #d4ca19;
+	border-style: dotted;
+	border-width: 5px;
+	border-color: red;
+}
+
+a:visited {
+	background: #09062e;
+	color:#19c224;
+	font-size: 35px; 
+	font-weight: bold;
+	font-family: Comic Sans MS, Arial, Times, sans-serif;
+	border-color: #19c224;
+	margin-left: 25px;
+}
